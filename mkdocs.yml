@@ -1,0 +1,15 @@
+site_name: Not Suspicious Docs
+theme:
+  name: material
+markdown_extensions: 
+  - admonition
+
+nav:
+  - Back to Not Suspicious: 'https://notsuspicious.com'
+  - Home: 'index.md'
+  - SUS Build Guide: 'sus.md'
+
+# extra:
+#   social:
+#     - type: 'instagram'
+#       link: 'https://instagram.com/notsuspiciousmfg'
