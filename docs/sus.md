@@ -8,6 +8,8 @@ This is a general build guide for the lineup of SUS keyboards:
 * SUSTKL
 * FullSUS
 
+![](images/sus/00-exploded-view.png)
+
 First ensure you have all of the items that comes with the kit. If you are missing any of the compoonents, please reach out our support.
 
 * PCB
