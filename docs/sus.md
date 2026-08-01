@@ -47,6 +47,8 @@ The PCB will be pre-flashed with our latest QMK firmware and is tested before pa
 
 ## Prepare the Plate
 
+1. Ensure the plate is oriented correctly before you begin. Ensure the countersunk portion of the screw hole is facing up.
+![](images/sus/03-plate-orientation.png)
 1. Begin placing switches into the plate. You can either populate all of the switches and then align them with the PCB, or at a minimum populate a couple of switches in each corner of the plate before mating to the PCB.
 ![](images/sus/03-plate-with-switches.png)
 1. Note that *almost* all switches should be oriented with the pins at the top or north position. Review the PCB if alternate layouts have switches rotated. Notably:
